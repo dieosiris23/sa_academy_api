@@ -5,7 +5,7 @@ type Student {
     password: String!
 }
 input StudentInput {
-    code: Int!
+  
     username: String!
     password: String
 }`;

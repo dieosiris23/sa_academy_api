@@ -10,6 +10,6 @@ services:
       COURSES_ENTRY: 'courses-ms/resources/courses'
       STUDENTS_URL: '192.168.99.101'
       STUDENTS_PORT: '3001'
-      STUDENTS_ENTRY: 'students-ms/resources/students/'
+      STUDENTS_ENTRY: 'students-ms/resources/students'
     ports:
       - '5000:5000'
